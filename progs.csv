@@ -1,6 +1,7 @@
 #TAG,NAME IN REPO (or git url),PURPOSE (should be a verb phrase to sound right while installing)
 A,brave-bin,"is an elegant browser with built-in adblocking, tor and other features."
 A,gtk-theme-arc-gruvbox-git,gives the dark GTK theme used in LARBS.
+A,polybar,is the status bar
 A,python-ueberzug,generates image previews in ranger and other terminal programs.
 A,ranger-git,is an extensive terminal file manager that everyone likes.
 A,sc-im,is an Excel-like terminal spreadsheet manager.
@@ -52,6 +53,7 @@ V,xsetroot,sets status bar and other X properies.
 ,ncmpcpp,a ncurses interface for music with multiple formats and a powerful tag editor.
 ,neovim,a tidier vim with some useful features
 ,newsboat,is a terminal RSS client.
+,nfs-utils,is a set of tools for nfs filesystem
 ,ntfs-3g,allows accessing NTFS partitions.
 ,poppler,manipulates .pdfs and gives .pdf previews and other .pdf functions.
 ,slock,"allows you to lock your computer, and quickly unlock with your password."
